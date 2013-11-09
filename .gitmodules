@@ -1,0 +1,9 @@
+[submodule "projects/test-suite"]
+	path = projects/test-suite
+	url = git@github.com:BBBSnowball/mehari-llvm-test-suite.git
+[submodule "tools/clang"]
+	path = tools/clang
+	url = git@github.com:BBBSnowball/mehari-llvm-clang.git
+[submodule "projects/compiler-rt"]
+	path = projects/compiler-rt
+	url = git@github.com:BBBSnowball/mehari-llvm-compiler-rt.git

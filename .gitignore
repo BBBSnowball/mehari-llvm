@@ -38,8 +38,10 @@ projects/*
 !projects/sample
 !projects/CMakeLists.txt
 !projects/Makefile
+!projects/test-suite
+!projects/compiler-rt
 # Clang, which is tracked independently.
-tools/clang
+#tools/clang
 # LLDB, which is tracked independently.
 tools/lldb
 # lld, which is tracked independently.
